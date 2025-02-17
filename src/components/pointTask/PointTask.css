@@ -1,0 +1,48 @@
+
+.wallet-task,
+.twitter-task,
+.discord-task,
+.telegram-task,
+.joinNow-task {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 20px;
+    padding: 10px 12px 13px 16px;
+
+}
+ .wallet-task  button,
+ .twitter-task button,
+ .discord-task button,
+ .telegram-task button {
+    padding: 10px 20px 13px 20px;
+    border-radius: 25px;
+}
+
+.agreement-task{
+    display: flex;
+}
+
+.agreement-task p{
+    padding: 15px 20px 2px 20px;
+}
+
+.referal-task{
+    font-size: 20px;
+    padding: 12px 13px 14px 11px;
+}
+.referal-task button{
+    padding: 2px 13px 2px 13px;
+    margin: 5px 5px 5px 5px;
+
+}
+
+.joinNow-task a{
+    padding: 12px 32px 12px 32px;
+    border-radius: 25px;
+    border: 1px solid black;
+    text-decoration: none;
+}
+.agreement-task p{
+    font-size: 20px;
+}
